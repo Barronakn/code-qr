@@ -1,4 +1,4 @@
-# 🏡 Génération de code QR
+# 🏡 PWA de génération de code QR
 
 ## 📌 Description  
 Transformez n’importe quel texte, lien ou information en un code QR en quelques secondes. Que ce soit pour partager une URL, une carte de visite numérique, une connexion Wi-Fi ou même un événement, ce générateur vous permet de créer un QR code facilement et efficacement. 

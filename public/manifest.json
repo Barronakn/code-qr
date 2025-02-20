@@ -1,0 +1,56 @@
+{
+    "name": "Generation de code QR",
+    "short_name": "Code QR",
+    "description": "Application web pour scanner et générer des QR Codes",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "manifest-icon-192.maskable.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "manifest-icon-192.maskable.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "manifest-icon-512.maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "manifest-icon-512.maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ],
+    "screenshots": [
+          {
+            "src": "/assets/desktop.png",
+            "sizes": "1366x619",
+            "type": "image/png",
+            "form_factor": "wide"
+          },
+          {
+            "src": "/assets/tablet.png",
+            "sizes": "573x353",
+            "type": "image/png"
+          },
+          {
+            "src": "/assets/mobile.png",
+            "sizes": "400x532",
+            "type": "image/png",
+            "form_factor": "narrow"
+          }
+      ]
+  }
